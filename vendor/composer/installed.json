@@ -1,0 +1,25 @@
+[
+    {
+        "name": "web/app1",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/myrichhub/douzhou.git",
+            "reference": "c5f695fc9e53c538a64ec993e3fd25bf5a91935e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/myrichhub/douzhou/zipball/c5f695fc9e53c538a64ec993e3fd25bf5a91935e",
+            "reference": "c5f695fc9e53c538a64ec993e3fd25bf5a91935e",
+            "shasum": ""
+        },
+        "time": "2015-08-05 07:33:29",
+        "type": "library",
+        "installation-source": "source",
+        "support": {
+            "source": "https://github.com/myrichhub/douzhou/tree/master",
+            "issues": "https://github.com/myrichhub/douzhou/issues"
+        }
+    }
+]

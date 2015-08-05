@@ -1,0 +1,24 @@
+{
+    "name": "web/app2",
+    "repositories": [
+        {   
+            "packagist": false
+        },  
+        {   
+            "type": "vcs",
+            "url": "https://github.com/myrichhub/douzhou.git"
+        }   
+    ],  
+    "require" : {
+        "web/app1": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "vendor/web/app1/classes/"
+        }   
+    },  
+    "config": {
+        "discard-changes": true,
+        "autoloader-suffix": "Loader"
+    }   
+}

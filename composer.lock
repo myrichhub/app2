@@ -1,0 +1,41 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "931665b1b889c5d919a9e66ee79cce52",
+    "packages": [
+        {
+            "name": "web/app1",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/myrichhub/douzhou.git",
+                "reference": "c5f695fc9e53c538a64ec993e3fd25bf5a91935e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/myrichhub/douzhou/zipball/c5f695fc9e53c538a64ec993e3fd25bf5a91935e",
+                "reference": "c5f695fc9e53c538a64ec993e3fd25bf5a91935e",
+                "shasum": ""
+            },
+            "type": "library",
+            "support": {
+                "source": "https://github.com/myrichhub/douzhou/tree/master",
+                "issues": "https://github.com/myrichhub/douzhou/issues"
+            },
+            "time": "2015-08-05 07:33:29"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "web/app1": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
